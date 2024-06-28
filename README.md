@@ -13,7 +13,7 @@ This project is a graphical calculator built using Python and PySide6. It provid
 - Keyboard input support for quick calculations
 
 ## Technical Details
-- Built with Python 3.x
+- Built with Python 3.10.12
 - GUI implemented using PySide6
 - Mathematical operations powered by SymPy library for accurate calculations
 
