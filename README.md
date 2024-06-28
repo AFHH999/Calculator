@@ -25,7 +25,7 @@ This project is a graphical calculator built using Python and PySide6. It provid
 5. Use '⌫' or Backspace to delete the last character.
 
 ## Installation
-1. Ensure you have Python 3.x installed.
+1. Ensure you have Python 3.10.12 installed.
 2. Install required libraries:
 3. Run the script:
 
